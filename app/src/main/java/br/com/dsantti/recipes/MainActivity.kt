@@ -43,6 +43,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             RecipesTheme {
+                // Creating a pull request
                 InitialScreen()
             }
         }
